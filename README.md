@@ -7,12 +7,13 @@ An interactive, real-time embedded system simulating a bomb defusal scenario. Bu
 
 ### 1. Hardware Implementation
 Watch the physical execution of the system, including the active countdown, mechanical vault locking, and wire defusal logic on the actual kit.
-[▶️ Watch Hardware Demo](./Hardware%20Record.mp4)
+
+<video src="./Hardware Record.mp4" controls="controls" width="100%"></video>
 
 ### 2. Proteus Simulation
 Watch the software logic, LCD multiplexing, and virtual hardware integration running in the Proteus simulation environment.
-[▶️ Watch Simulation Demo](./Proteus_simulation.mkv)
 
+<video src="./Proteus_simulation.mp4" controls="controls" width="100%"></video>
 ---
 
 ## ⚙️ Hardware Components

@@ -1,0 +1,1 @@
+APP/APP.o APP/APP.o: ../APP/APP.c
